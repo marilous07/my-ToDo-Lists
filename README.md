@@ -12,8 +12,7 @@ Features:
 Technologies Used:
 
     React
-    Angular
-    [ ]
+   
 
 How to Use:
 
